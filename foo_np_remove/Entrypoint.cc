@@ -5,7 +5,7 @@
 #pragma comment(lib, "pfc.lib")
 #pragma comment(lib, "shared.lib")
 
-DECLARE_COMPONENT_VERSION("foo_np_remove", "1.2", "zao");
+DECLARE_COMPONENT_VERSION("Remove Playing Track", "1.2", "zao");
 VALIDATE_COMPONENT_FILENAME("foo_np_remove.dll");
 
 struct Commands : mainmenu_commands
