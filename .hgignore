@@ -1,7 +1,0 @@
-syntax: glob
-.vs
-Debug
-Relase
-foo_np_remove/Debug
-foo_np_remove/Release
-portable

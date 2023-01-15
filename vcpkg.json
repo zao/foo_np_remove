@@ -1,0 +1,7 @@
+{
+  "name": "foo-np-remove",
+  "version": "1.2.0",
+  "dependencies": [
+    "foobar2000-sdk"
+  ]
+}
